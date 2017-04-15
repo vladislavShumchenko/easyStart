@@ -1,0 +1,125 @@
+.content {
+
+    height: 510px;
+    overflow: hidden;
+    width:100%;
+    position:relative;
+
+}
+.content .outer{
+    position:absolute;
+    top:45%;
+    left:25%;
+    color: white;
+    text-align: center;
+}
+img.main_img {
+    width: 100%;
+}
+h1 {
+    font-style: normal;
+    font-size: 36pt;
+}
+.top {
+    position: absolute;
+}
+
+.leftLayer {
+    float: left;
+    width: 50%;
+    min-height:400px;
+    text-align: center;
+}
+.girlInRed {
+    float: right;
+
+}
+.row{
+    background-image: url("img/bg.jpg");
+    background-repeat: repeat-x ;
+    min-height:400px;
+}
+
+.imgCont {
+    overflow: hidden;
+    height: 400px;
+}
+.clearfix{
+    clear: both;
+    height: 90px;
+}
+.container{
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+}
+.beard {
+
+    min-height:540px;
+    float: right;
+}
+
+.rhomb {
+    background-image: url("img/rhomb.png");
+    background-repeat: no-repeat;
+    height: 25px;
+    position: absolute;
+    width: 25px;
+    top: 85%;
+    left: 210px;
+}
+.rhomb1{
+    background-image: url("img/rhomb.png");
+    background-repeat: no-repeat;
+    height: 25px;
+    position: absolute;
+    width: 25px;
+    top: 73px;
+    left: 195px;
+
+}
+.swim{
+    height: 540px;
+    float: right;
+    margin-right: 20px;
+    position:relative;
+}
+.web{
+    height: 240px;
+    float: right;
+    margin-right: 20px;
+    position:relative;
+    text-align: center;
+    top: 75px;
+}
+.skin{
+    height: 680px;
+    float: left;
+    position:relative;
+    text-align: center;
+    top: 52px;
+}
+.bottomBlock {
+    margin: 0 auto;
+    margin-top:-20px;
+}
+.shopKimono{
+    position: relative;
+    float: right;
+    text-align: center;
+    width: 910px;
+}
+.container.shopKimono.outer1 {
+    position: absolute;
+    text-align: center;
+}
+.container .outer{
+    background-color:white;
+    opacity: 0.5;
+    position:absolute;
+    top:0;
+    text-align: center;
+    padding:20px 0 20px 0;
+    width:100%;
+}
+
